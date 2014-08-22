@@ -1,0 +1,9 @@
+c:\users\stamen44o\documents\visual studio 2013\Projects\service550dv\service550dv\obj\Debug\service550dv.csprojResolveAssemblyReference.cache
+c:\users\stamen44o\documents\visual studio 2013\Projects\service550dv\service550dv\obj\Debug\service550dv.Form1.resources
+c:\users\stamen44o\documents\visual studio 2013\Projects\service550dv\service550dv\obj\Debug\service550dv.Properties.Resources.resources
+c:\users\stamen44o\documents\visual studio 2013\Projects\service550dv\service550dv\obj\Debug\service550dv.csproj.GenerateResource.Cache
+C:\Users\stamen44o\documents\visual studio 2013\Projects\service550dv\service550dv\bin\Debug\FP550DV-IO.exe
+C:\Users\stamen44o\documents\visual studio 2013\Projects\service550dv\service550dv\bin\Debug\FP550DV-IO.pdb
+C:\Users\stamen44o\documents\visual studio 2013\Projects\service550dv\service550dv\obj\Debug\FP550DV-IO.exe
+C:\Users\stamen44o\documents\visual studio 2013\Projects\service550dv\service550dv\obj\Debug\FP550DV-IO.pdb
+C:\Users\stamen44o\documents\visual studio 2013\Projects\service550dv\service550dv\bin\Debug\FP550DV-IO.exe.config

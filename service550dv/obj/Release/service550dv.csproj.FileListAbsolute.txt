@@ -1,0 +1,3 @@
+C:\Users\stamen44o\documents\visual studio 2013\Projects\service550dv\service550dv\obj\Release\service550dv.Form1.resources
+C:\Users\stamen44o\documents\visual studio 2013\Projects\service550dv\service550dv\obj\Release\service550dv.Properties.Resources.resources
+C:\Users\stamen44o\documents\visual studio 2013\Projects\service550dv\service550dv\obj\Release\service550dv.csproj.GenerateResource.Cache
